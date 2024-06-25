@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saklen Shaikh</h1>
 <h3 align="center">I am a dedicated Data analyst from Pune, India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together</h3>
 
-<p align="left"> <img src="https://api.careers.fresenius.com/images/4a9e0fed-f1d2-49ce-92d1-8af5ba2df041">
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 </p>
 
