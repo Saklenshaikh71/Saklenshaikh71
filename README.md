@@ -1,3 +1,4 @@
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/analytics.gif)]
 <h1 align="center">Hi 👋, I'm Saklen Shaikh</h1>
 <h3 align="center">I am a dedicated Data analyst from Pune, India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together</h3>
 
